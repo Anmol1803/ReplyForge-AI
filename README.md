@@ -1,4 +1,4 @@
-DEPLOY LINK : https://replyforge-aigit-frclhaa3crfprjuug5772f.streamlit.app/
+## 🚀 Live Demo : https://replyforge-aigit-frclhaa3crfprjuug5772f.streamlit.app/
 
 <div align="center">
 
@@ -60,11 +60,6 @@ Instead of staring at a blank compose window, you paste the email you received, 
 
 It is designed to feel less like a chatbot and more like a **command center** — purpose-built, fast, and unapologetically beautiful.
 
----
-
-## 🚀 Live Demo
-
-> Coming soon — deploy your own instance using the setup instructions below.
 
 ---
 
