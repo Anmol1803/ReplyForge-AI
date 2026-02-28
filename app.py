@@ -10,7 +10,7 @@ load_dotenv()
 
 # ---------------------------- CONFIGURATION ----------------------------
 st.set_page_config(
-    page_title="Email Assistant",
+    page_title="ReplyForgeAI",
     page_icon="📧",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -418,7 +418,7 @@ with col_logo:
     <div style="display:flex;align-items:center;gap:12px;">
         <div style="width:42px;height:42px;background:var(--btn-p);border-radius:var(--r);display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:0 0 20px var(--glow);">📧</div>
         <div>
-            <div style="font-size:1.4rem;font-weight:800;letter-spacing:-.02em;background:var(--btn-p);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">EMAIL ASSISTANT</div>
+            <div style="font-size:1.4rem;font-weight:800;letter-spacing:-.02em;background:var(--btn-p);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">ReplyForgeAI</div>
             <div style="font-family:var(--mono);font-size:.62rem;color:var(--muted);letter-spacing:.15em;text-transform:uppercase;">AI-Powered Response Engine</div>
         </div>
     </div>
