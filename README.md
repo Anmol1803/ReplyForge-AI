@@ -455,6 +455,8 @@ Contributions are welcome! Here's how to get involved:
 - [ ] Streamlit Cloud deployment button
 - [ ] Unit tests for API helper functions
 
+      Contributed by Niharika
+
 ---
 
 ## 📄 License
